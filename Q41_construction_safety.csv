@@ -1,0 +1,124 @@
+worker_record_id,worker_experience_years,shift,equipment_usage,weather,working_hours,incident_status
+CS0001,12.8,Evening,Excavator,Clear,13.1,No Incident
+CS0002,18.5,Night,Manual,Rain,12.3,Incident
+CS0003,8.8,Day,Manual,Clear,6.2,No Incident
+CS0004,8.3,Night,Drill,Rain,10.0,No Incident
+CS0005,24.1,Evening,Crane,Hot,13.7,No Incident
+CS0006,22.6,Day,Excavator,Rain,13.6,No Incident
+CS0007,24.3,Night,Manual,Clear,5.7,No Incident
+CS0008,23.7,Night,Crane,Clear,8.4,Incident
+CS0009,8.0,Evening,Excavator,Rain,12.7,No Incident
+CS0010,0.4,Night,Crane,Rain,12.0,Incident
+CS0011,16.8,Evening,Excavator,Hot,5.3,No Incident
+CS0012,13.8,Day,Excavator,Clear,11.2,Incident
+CS0013,6.5,Day,Drill,Hot,7.4,No Incident
+CS0014,23.6,Day,Drill,Rain,4.5,No Incident
+CS0015,22.1,Evening,Drill,Rain,13.1,No Incident
+CS0016,20.3,Day,Crane,Rain,7.3,No Incident
+CS0017,11.7,Night,Crane,Clear,6.1,No Incident
+CS0018,14.5,Night,Manual,Hot,4.7,No Incident
+CS0019,10.7,Evening,Crane,Hot,7.9,No Incident
+CS0020,12.1,Day,Crane,Hot,9.0,No Incident
+CS0021,1.9,Night,Excavator,Rain,12.0,Incident
+CS0022,8.6,Evening,Drill,Clear,5.2,No Incident
+CS0023,0.6,Night,Drill,Hot,6.3,No Incident
+CS0024,23.3,Night,Manual,Clear,8.8,No Incident
+CS0025,11.4,Night,Drill,Hot,13.8,No Incident
+CS0026,8.7,Night,Excavator,Hot,6.3,No Incident
+CS0027,24.8,Day,Excavator,Clear,9.3,No Incident
+CS0028,24.1,Night,Crane,Hot,8.5,No Incident
+CS0029,1.7,Evening,Crane,Clear,8.7,No Incident
+CS0030,6.5,,Manual,Rain,10.7,No Incident
+CS0031,13.7,Night,Excavator,Rain,4.1,No Incident
+CS0032,18.4,Night,Drill,Rain,4.8,No Incident
+CS0033,18.3,Night,Drill,Rain,9.8,No Incident
+CS0034,11.5,Evening,Excavator,Hot,7.9,No Incident
+CS0035,7.0,Night,Excavator,Hot,4.7,No Incident
+CS0036,14.1,Evening,Crane,Clear,4.9,No Incident
+CS0037,23.3,Night,Crane,Rain,5.8,Incident
+CS0038,17.3,Evening,Excavator,Hot,5.8,No Incident
+CS0039,5.0,Day,Drill,Hot,11.9,No Incident
+CS0040,18.2,Evening,Excavator,Hot,10.9,Incident
+CS0041,11.5,Day,Drill,Rain,12.3,Incident
+CS0042,10.4,Night,Manual,Hot,10.5,No Incident
+CS0043,5.3,Evening,Excavator,Hot,6.9,No Incident
+CS0044,3.0,Day,Excavator,Clear,12.6,No Incident
+CS0045,20.4,Evening,Crane,Rain,5.3,No Incident
+CS0046,14.4,Day,Excavator,Rain,12.7,Incident
+CS0047,7.5,Night,Crane,Clear,12.3,No Incident
+CS0048,18.1,Evening,Manual,Clear,5.9,No Incident
+CS0049,1.8,Day,Manual,Rain,11.2,Incident
+CS0050,8.3,Day,Manual,Clear,8.6,No Incident
+CS0051,16.1,Evening,Excavator,Rain,11.7,Incident
+CS0052,21.4,Night,Drill,Hot,12.8,No Incident
+CS0053,19.2,Evening,Crane,Rain,12.4,No Incident
+CS0054,9.7,Evening,Drill,Hot,14.0,No Incident
+CS0055,18.2,Day,Manual,Hot,6.5,No Incident
+CS0056,9.2,Evening,Drill,Rain,13.3,No Incident
+CS0057,15.0,Day,Crane,Clear,8.5,No Incident
+CS0058,24.8,Day,Drill,Hot,7.2,No Incident
+CS0059,6.0,Day,Manual,Clear,7.1,No Incident
+CS0060,7.3,Day,Drill,Clear,12.2,No Incident
+CS0061,20.2,Day,Drill,Clear,8.8,No Incident
+CS0062,23.1,Evening,Manual,Rain,7.6,No Incident
+CS0063,7.2,Day,Manual,Rain,6.9,No Incident
+CS0064,10.8,Day,Drill,Hot,6.4,No Incident
+CS0065,11.7,Day,Crane,Hot,4.3,No Incident
+CS0066,21.2,Evening,Manual,Clear,9.8,No Incident
+CS0067,0.9,Day,Crane,Clear,11.8,No Incident
+CS0068,18.4,Evening,Drill,Hot,8.0,No Incident
+CS0069,2.8,Night,Manual,Rain,8.5,No Incident
+CS0070,19.6,Night,Crane,Hot,8.4,No Incident
+CS0071,22.7,Evening,Crane,Hot,10.4,No Incident
+CS0072,3.6,Night,Crane,Rain,13.1,Incident
+CS0073,18.0,Evening,Crane,,11.6,Incident
+CS0074,21.0,Night,Drill,Rain,11.6,Incident
+CS0075,6.2,Evening,Drill,Hot,11.0,No Incident
+CS0076,7.7,Night,Manual,Clear,4.7,Incident
+CS0077,12.1,Night,Manual,Rain,14.0,No Incident
+CS0078,18.4,Night,Crane,Hot,9.0,No Incident
+CS0079,23.4,Day,Excavator,Rain,12.8,No Incident
+CS0080,4.7,Night,Manual,Clear,,No Incident
+CS0081,1.4,Night,Excavator,Hot,13.5,No Incident
+CS0082,14.1,Day,Manual,Hot,9.6,No Incident
+CS0083,18.7,Night,Crane,Clear,8.2,No Incident
+CS0084,10.8,Day,Drill,Hot,4.3,No Incident
+CS0085,14.6,Day,Excavator,Clear,4.6,No Incident
+CS0086,10.8,Day,Manual,Clear,4.4,No Incident
+CS0087,2.6,Night,Manual,Clear,6.5,No Incident
+CS0088,8.4,Night,Manual,Rain,4.3,No Incident
+CS0089,18.2,Night,Drill,Clear,9.4,No Incident
+CS0090,16.9,Night,Crane,Rain,12.6,Incident
+CS0091,22.1,Evening,Crane,Rain,4.9,No Incident
+CS0092,8.9,Day,Excavator,Hot,11.0,No Incident
+CS0093,17.4,Night,Manual,Clear,8.2,No Incident
+CS0094,8.0,Evening,Manual,Rain,13.0,No Incident
+CS0095,11.0,Day,Excavator,Rain,12.2,No Incident
+CS0096,22.4,Evening,Crane,Hot,5.2,No Incident
+CS0097,17.2,Night,Manual,Rain,6.2,No Incident
+CS0098,18.3,Evening,Drill,Clear,6.0,No Incident
+CS0099,17.7,Evening,Excavator,Hot,12.7,No Incident
+CS0100,23.0,Night,Excavator,Rain,11.5,No Incident
+CS0101,24.1,Night,Crane,Hot,8.8,No Incident
+CS0102,21.1,Evening,Crane,Hot,11.8,No Incident
+CS0103,24.0,Night,Excavator,Clear,13.6,Incident
+CS0104,3.9,Night,Excavator,Hot,12.9,Incident
+CS0105,1.8,Night,Drill,Clear,8.7,No Incident
+CS0106,12.6,Day,Manual,Hot,11.3,No Incident
+CS0107,2.5,Evening,Crane,Rain,5.0,No Incident
+CS0108,12.6,Day,Manual,Hot,8.1,No Incident
+CS0109,22.9,Evening,Drill,Clear,5.4,No Incident
+CS0110,21.3,Day,Excavator,Hot,10.3,No Incident
+CS0111,24.6,Night,Drill,Clear,9.2,No Incident
+CS0112,19.9,Day,Crane,Hot,5.9,No Incident
+CS0113,0.7,Night,Crane,Hot,5.5,No Incident
+CS0114,7.5,Evening,Crane,Hot,10.7,No Incident
+CS0115,3.0,Day,Excavator,Rain,9.9,Incident
+CS0116,17.6,Night,Manual,Hot,6.4,No Incident
+CS0117,16.1,Evening,Manual,Hot,10.5,Incident
+CS0118,13.9,Day,Drill,Hot,8.1,No Incident
+CS0119,5.8,Night,Excavator,Rain,11.7,Incident
+CS0120,18.8,Evening,Drill,Rain,6.6,No Incident
+CS0111,24.6,Night,Drill,Clear,9.2,No Incident
+CS0096,22.4,Evening,Crane,Hot,5.2,No Incident
+CS0044,3.0,Day,Excavator,Clear,12.6,No Incident
